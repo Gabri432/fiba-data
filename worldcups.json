@@ -1,0 +1,260 @@
+{
+    "cups":[
+        {
+            "year":"2023",
+            "host":"Philippines, Japan, Indonesia",
+            "winner":"",
+            "final_nations":["Germany", "Serbia"],
+            "final_scores":"Germany 83-77 Serbia",
+            "semi_final_nations":["Serbia", "Canada", "United States", "Germany"],
+            "semi_final_scores":["Serbia 95-86 Canada", "United States 111-113 Germany"],
+            "quarter_final_nations":["Serbia", "Canada", "United States", "Germany", "Italy", "Latvia", "Lithuania", "Slovenia"],
+            "quarter_final_scores":["Lithuania 68-87 Serbia", "Italy 63-100 United States", "Germany 81-79 Latvia", "Canada 100-89 Slovenia"],
+            "participants":[
+                "Germany", "Serbia", "Canada", "United States", "Latvia", "Lithuania", "Slovenia", "Italy", "Spain", "Australia", 
+                "Montenegro", "Puerto Rico", "Brazil", "Dominican Republic", "Greece", "Georgia", "South Sudan", "France", "Japan", "Egypt", 
+                "Finland", "New Zealand", "Lebanon", "Philippines", "Mexico", "Angola", "Ivory Coast", "Cape Verde", "China", "Venezuela",
+                "Iran", "Jordan"
+            ]
+        },
+        {
+            "year":"2019",
+            "host":"China",
+            "winner":"Spain",
+            "final_nations":["Spain","Argentina"],
+            "final_scores":"Spain 95-75 Argentina",
+            "semi_final_nations":["Argentina", "France", "Spain", "Australia"],
+            "semi_final_scores":["Argentina 80-66 France", "Spain 95-88 Australia"],
+            "quarter_final_nations":["Argentina", "Serbia", "United States", "France", "Spain", "Poland", "Australia", "Czech Republic"],
+            "quarter_final_scores":["Argentina 97-87 Serbia", "United States 79-89 France", "Spain 90-78 Poland", "Australia 82-70 Czech Republic"],
+            "participants":[
+                "Spain", "Argentina", "France", "Australia", "Serbia", "Czech Republic", "United States", "Poland", "Lithuania", "Italy",
+                "Greece", "Russia", "Brazil", "Venezuela", "Puerto Rico", "Dominican Republic", "Nigeria", "Germany", "New Zealand", "Tunisia",
+                "Canada", "Turkey", "Iran", "China", "Montenegro", "South Korea", "Angola", "Jordan", "Ivory Coast", "Senegal",
+                "Japan", "Philippines"
+            ]
+        },
+        {
+            "year":"2014",
+            "host":"Spain",
+            "winner":"United States",
+            "final_nations":["United States", "Serbia"],
+            "final_scores":"United States 129-92 Serbia",
+            "semi_final_nations":["France", "Serbia", "United States", "Lithuania"],
+            "semi_final_scores":["France 85-90 Serbia", "United States 96-68 Lithuania"],
+            "quarter_final_nations":["Spain", "France", "Serbia", "Brazil", "United States", "Slovenia", "Lithuania", "Turkey"],
+            "quarter_final_scores":["Spain 52-65 France", "Serbia 84-56 Brazil", "United States 119-76 Slovenia", "Lithuania 73-61 Turkey"],
+            "participants":[
+                "United States", "Serbia", "France", "Lithuania", "Spain", "Brazil", "Slovenia", "Turkey", "Greece", "Croatia",
+                "Argentina", "Australia", "Dominican Republic", "Mexico", "New Zealand", "Senegal", "Angola", "Ukraine", "Puerto Rico", "Iran",
+                "Philippines", "Finland", "South Korea", "Egypt"
+            ]
+        },
+        {
+            "year":"2010",
+            "host":"Turkey",
+            "winner":"United States",
+            "final_nations":["United States", "Turkey"],
+            "final_scores":"United States 81-64 Turkey",
+            "semi_final_nations":["Serbia", "Turkey", "United States", "Lithuania"],
+            "semi_final_scores":["Serbia 82-83 Turkey", "United States 89-74 Lithuania"],
+            "quarter_final_nations":["Serbia", "Spain", "Turkey", "Slovenia", "United States", "Russia", "Lithuania", "Argentina"],
+            "quarter_final_scores":["Serbia 92-89 Spain", "Turkey 95-68 Slovenia", "United States 89-79 Russia", "Lithuania 104-85 Argentina"],
+            "participants":[
+                "United States", "Turkey", "Lithuania", "Serbia", "Argentina", "Spain", "Russia", "Slovenia", "Brazil", "Australia",
+                "Greece", "New Zealand", "France", "Croatia", "Angola", "China", "Germany", "Puerto Rico", "Iran", "Lebanon",
+                "Ivory Coast", "Canada", "Jordan", "Tunisia"
+            ]
+        },
+        {
+            "year":"2006",
+            "host":"Japan",
+            "winner":"Spain",
+            "final_nations":["Spain", "Greece"],
+            "final_scores":"Spain 70-47 Greece",
+            "semi_final_nations":["Argentina", "Spain", "Greece", "United States"],
+            "semi_final_scores":["Argentina 74-75 Spain", "Greece 101-95 United States"],
+            "quarter_final_nations":["Argentina", "Turkey", "Spain", "Lithuania", "Greece", "France", "United States", "Germany"],
+            "quarter_final_scores":["Argentina 83-58 Turkey", "Spain 89-67 Lithuania", "Greece 73-56 France", "United States 85-65 Germany"],
+            "participants":[
+                "Spain", "Greece", "United States", "Argentina", "France", "Turkey", "Lithuania", "Germany", "Angola", "Australia",
+                "China", "Italy", "New Zealand", "Nigeria", "Serbia and Montenegro", "Slovenia", "Brazil", "Japan", "Lebanon", "Puerto Rico",
+                "Panama", "Qatar", "Senegal", "Venezuela"
+            ]
+        },
+        {
+            "year":"2002",
+            "host":"United States",
+            "winner":"Yugoslavia",
+            "final_nations":["Yugoslavia", "Argentina"],
+            "final_scores":"Yugoslavia 84-77 Argentina",
+            "semi_final_nations":["New Zealand", "Yugoslavia", "Germany", "Argentina"],
+            "semi_final_scores":["New Zealand 78-89 Yugoslavia", "Germany 80-86 Argentina"],
+            "quarter_final_nations":["Puerto Rico", "New Zealand", "Yugoslavia", "United States", "Spain", "Germany", "Brazil", "Argentina"],
+            "quarter_final_scores":["Puerto Rico 63-65 New Zealand", "Yugoslavia 81-78 United States", "Spain 62-70 Germany", "Brazil 67-78 Argentina"],
+            "participants":[
+                "Yugoslavia", "Argentina", "Germany", "New Zealand", "Spain", "United States", "Puerto Rico", "Brazil", "Turkey", "Russia",
+                "Angola", "China", "Canada", "Venezuela", "Algeria", "Lebanon"
+            ]
+        },
+        {
+            "year":"1998",
+            "host":"Greece",
+            "winner":"Yugoslavia",
+            "final_nations":["Yugoslavia", "Russia"],
+            "final_scores":"Yugoslavia 64-62 Russia",
+            "semi_final_nations":["Russia", "United States", "Yugoslavia", "Greece"],
+            "semi_final_scores":["Russia 66-64 United States", "Yugoslavia 78-73 Greece"],
+            "quarter_final_nations":["Russia", "Lithuania", "Italy", "United States", "Yugoslavia", "Argentina", "Greece", "Spain"],
+            "quarter_final_scores":["Russia 82-67 Lithuania", "Italy 77-80 United States", "Yugoslavia 70-62 Argentina", "Greece 69-62 Spain"],
+            "participants":[
+                "Yugoslavia", "Russia", "United States", "Greece", "Spain", "Italy", "Lithuania", "Argentina", "Australia", "Brazil",
+                "Puerto Rico", "Canada", "Nigeria", "Japan", "Senegal", "South Korea"
+            ]
+        },
+        {
+            "year":"",
+            "host":"",
+            "winner":"",
+            "final_nations":[""],
+            "final_scores":"",
+            "semi_final_nations":[""],
+            "semi_final_scores":[""],
+            "quarter_final_nations":[""],
+            "quarter_final_scores":[""],
+            "participants":[""]
+        },
+        {
+            "year":"",
+            "host":"",
+            "winner":"",
+            "final_nations":[""],
+            "final_scores":"",
+            "semi_final_nations":[""],
+            "semi_final_scores":[""],
+            "quarter_final_nations":[""],
+            "quarter_final_scores":[""],
+            "participants":[""]
+        },
+        {
+            "year":"",
+            "host":"",
+            "winner":"",
+            "final_nations":[""],
+            "final_scores":"",
+            "semi_final_nations":[""],
+            "semi_final_scores":[""],
+            "quarter_final_nations":[""],
+            "quarter_final_scores":[""],
+            "participants":[""]
+        },
+        {
+            "year":"",
+            "host":"",
+            "winner":"",
+            "final_nations":[""],
+            "final_scores":"",
+            "semi_final_nations":[""],
+            "semi_final_scores":[""],
+            "quarter_final_nations":[""],
+            "quarter_final_scores":[""],
+            "participants":[""]
+        },
+        {
+            "year":"",
+            "host":"",
+            "winner":"",
+            "final_nations":[""],
+            "final_scores":"",
+            "semi_final_nations":[""],
+            "semi_final_scores":[""],
+            "quarter_final_nations":[""],
+            "quarter_final_scores":[""],
+            "participants":[""]
+        },
+        {
+            "year":"",
+            "host":"",
+            "winner":"",
+            "final_nations":[""],
+            "final_scores":"",
+            "semi_final_nations":[""],
+            "semi_final_scores":[""],
+            "quarter_final_nations":[""],
+            "quarter_final_scores":[""],
+            "participants":[""]
+        },
+        {
+            "year":"",
+            "host":"",
+            "winner":"",
+            "final_nations":[""],
+            "final_scores":"",
+            "semi_final_nations":[""],
+            "semi_final_scores":[""],
+            "quarter_final_nations":[""],
+            "quarter_final_scores":[""],
+            "participants":[""]
+        },
+        {
+            "year":"",
+            "host":"",
+            "winner":"",
+            "final_nations":[""],
+            "final_scores":"",
+            "semi_final_nations":[""],
+            "semi_final_scores":[""],
+            "quarter_final_nations":[""],
+            "quarter_final_scores":[""],
+            "participants":[""]
+        },
+        {
+            "year":"",
+            "host":"",
+            "winner":"",
+            "final_nations":[""],
+            "final_scores":"",
+            "semi_final_nations":[""],
+            "semi_final_scores":[""],
+            "quarter_final_nations":[""],
+            "quarter_final_scores":[""],
+            "participants":[""]
+        },
+        {
+            "year":"",
+            "host":"",
+            "winner":"",
+            "final_nations":[""],
+            "final_scores":"",
+            "semi_final_nations":[""],
+            "semi_final_scores":[""],
+            "quarter_final_nations":[""],
+            "quarter_final_scores":[""],
+            "participants":[""]
+        },
+        {
+            "year":"",
+            "host":"",
+            "winner":"",
+            "final_nations":[""],
+            "final_scores":"",
+            "semi_final_nations":[""],
+            "semi_final_scores":[""],
+            "quarter_final_nations":[""],
+            "quarter_final_scores":[""],
+            "participants":[""]
+        },
+        {
+            "year":"",
+            "host":"",
+            "winner":"",
+            "final_nations":[""],
+            "final_scores":"",
+            "semi_final_nations":[""],
+            "semi_final_scores":[""],
+            "quarter_final_nations":[""],
+            "quarter_final_scores":[""],
+            "participants":[""]
+        }
+    ]
+}
