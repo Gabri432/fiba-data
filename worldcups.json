@@ -194,108 +194,43 @@
                 "Colombia 88-97 Yugoslavia", "Spain 93-106 Soviet Union", "Australia 91-105 Yugoslavia", "United States 99-93 Soviet Union",
                 "Colombia 79-107 Canada", "Australia 86-110 United States"
             ],
-            "semi_final_qualification_nations":[""],
-            "semi_final_qualification_scores":[""],
+            "semi_final_qualification_nations":[
+                "Spain", "United States", "Panama", "China", "Soviet Union", "Australia", "Brazil", "Ivory Coast",
+                "Yugoslavia", "Canada", "Czechslovakia", "Uruguay"
+            ],
+            "semi_final_qualification_scores":[
+                "Spain 88-85 Panama", "United States 96-73 China", "United States 100-79 Panama", "China 78-108 Spain",
+                "Panama 121-92 China", "United States 99-109 Spain", "Soviet Union 129-80 Ivory Coast", "Brazil 73-75 Australia",
+                "Soviet Union 108-69 Australia", "Ivory Coast 79-102 Brazil", "Australia 80-59 Ivory Coast", "Soviet Union 99-92 Brazil",
+                "Canada 87-78 Uruguay", "Yugoslavia 101-80 Czechslovakia", "Yugoslavia 101-77 Uruguay", "Canada 104-99 Czechslovakia",
+                "Uruguay 84-111 Czechslovakia", "Yugoslavia 88-78 Canada"
+            ],
             "participant_standings":[
                 "Soviet Union", "United States", "Yugoslavia", "Spain", "Australia", "Canada", "Colombia", "Brazil", "Panama", "Czechslovakia",
                 "Uruguay", "China", "Ivory Coast"
             ]
         },
         {
-            "year":"",
-            "host":"",
-            "winner":"",
-            "final_nations":[""],
-            "final_scores":"",
-            "semi_final_nations":[""],
-            "semi_final_scores":[""],
-            "semi_final_qualification_nations":[""],
-            "semi_final_qualification_scores":[""],
-            "participant_standings":[""]
-        },
-        {
-            "year":"",
-            "host":"",
-            "winner":"",
-            "final_nations":[""],
-            "final_scores":"",
-            "semi_final_nations":[""],
-            "semi_final_scores":[""],
-            "semi_final_qualification_nations":[""],
-            "semi_final_qualification_scores":[""],
-            "participant_standings":[""]
-        },
-        {
-            "year":"",
-            "host":"",
-            "winner":"",
-            "final_nations":[""],
-            "final_scores":"",
-            "semi_final_nations":[""],
-            "semi_final_scores":[""],
-            "semi_final_qualification_nations":[""],
-            "semi_final_qualification_scores":[""],
-            "participant_standings":[""]
-        },
-        {
-            "year":"",
-            "host":"",
-            "winner":"",
-            "final_nations":[""],
-            "final_scores":"",
-            "semi_final_nations":[""],
-            "semi_final_scores":[""],
-            "semi_final_qualification_nations":[""],
-            "semi_final_qualification_scores":[""],
-            "participant_standings":[""]
-        },
-        {
-            "year":"",
-            "host":"",
-            "winner":"",
-            "final_nations":[""],
-            "final_scores":"",
-            "semi_final_nations":[""],
-            "semi_final_scores":[""],
-            "semi_final_qualification_nations":[""],
-            "semi_final_qualification_scores":[""],
-            "participant_standings":[""]
-        },
-        {
-            "year":"",
-            "host":"",
-            "winner":"",
-            "final_nations":[""],
-            "final_scores":"",
-            "semi_final_nations":[""],
-            "semi_final_scores":[""],
-            "semi_final_qualification_nations":[""],
-            "semi_final_qualification_scores":[""],
-            "participant_standings":[""]
-        },
-        {
-            "year":"",
-            "host":"",
-            "winner":"",
-            "final_nations":[""],
-            "final_scores":"",
-            "semi_final_nations":[""],
-            "semi_final_scores":[""],
-            "semi_final_qualification_nations":[""],
-            "semi_final_qualification_scores":[""],
-            "participant_standings":[""]
-        },
-        {
-            "year":"",
-            "host":"",
-            "winner":"",
-            "final_nations":[""],
-            "final_scores":"",
-            "semi_final_nations":[""],
-            "semi_final_scores":[""],
-            "semi_final_qualification_nations":[""],
-            "semi_final_qualification_scores":[""],
-            "participant_standings":[""]
+            "year":"1978",
+            "host":"Philippines",
+            "winner":"Yugoslavia",
+            "final_nations":["Yugoslavia", "Soviet Union"],
+            "final_scores":"Yugoslavia 82-81 Soviet Union",
+            "semi_final_nations":[
+                "Yugoslavia", "Canada", "South Korea", "Senegal", "Brazil", "Italy",
+                "Puerto Rico", "China", "United States", "Australia", "Czechslovakia", "Dominican Republic"
+            ],
+            "semi_final_scores":[
+                "Canada 105-69 South Korea", "Yugoslavia 99-64 Senegal", "South Korea 85-121 Yugoslavia", "Canada 60-42 Senegal",
+                "South Korea 86-84 Senegal", "Yugoslavia 105-95 Canada", "Brazil 154-97 China", "Puerto Rico 80-93 Italy",
+                "China 104-107 Puerto Rico", "Italy 84-88 Brazil", "Puerto Rico 88-100 Brazil", "China 95-125 Italy",
+                "Australia 75-77 United States", "Australia 71-68 Czechslovakia", "Dominican Republic 65-104 United States", 
+                "Australia 74-72 Dominican Republic", "United States 96-79 Czechslovakia", "Dominican Republic 81-82 Czeckslovakia"
+            ],
+            "participant_standings":[
+                "Yugoslavia", "Soviet Union", "Brazil", "Italy", "United States", "Canada", "Australia", "Philippines", "Czechslovakia", "Puerto Rico",
+                "China", "Dominican Republic", "South Korea", "Senegal"
+            ]
         }
     ]
 }
