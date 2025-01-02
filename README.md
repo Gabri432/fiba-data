@@ -1,5 +1,5 @@
 # Fiba world cup data
-A collection of data about the last 10 FIBA Basketball World Cups, from 1978 to 2023. See [wikipedia](https://en.wikipedia.org/wiki/FIBA_Basketball_World_Cup) for more information.
+A collection of data about the FIBA Basketball World Cups from 1982 to 2023. See [wikipedia](https://en.wikipedia.org/wiki/FIBA_Basketball_World_Cup) for more information.
 
 ## Project Structure
 - README.md
