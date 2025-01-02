@@ -4,7 +4,7 @@ A collection of data about the FIBA Basketball World Cups from 1982 to 2023. See
 ## Project Structure
 - README.md
 - license (MIT)
-- worldcups.json
+- v0/worldcups.json
 
 ## Formats
 This is the format for any FIBA world cup since 1998:
@@ -66,3 +66,4 @@ This is instead the format for FIBA world cup up to 1994:
 ## Notes
 - Sources: [Wikipedia](https://en.wikipedia.org/wiki/FIBA_Basketball_World_Cup), [FIBA website](https://www.fiba.basketball/en/history/201-fiba-basketball-world-cup);
 - The 2023 FIBA Basketball World Cup was hosted by three countries: Philippines, Japan and Indonesia. This field is still a string, not a list/array of strings. 
+- This is currently an UNSTABLE release, so it may be subject to changes.
